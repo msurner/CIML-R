@@ -6,7 +6,7 @@ This is a minimal example for the method and evaluation presented in the paper `
 ### Install dependencies
 ```
 > apt install -y graphviz 
-> conda create -n cimlr python3.10 pip 
+> conda create -n cimlr python=3.10 pip 
 > pip install -r requirements.txt
 ```
 
